@@ -1,4 +1,4 @@
--- finally updated this shit, eat up fags
+-- thanks to the guy who make ocean v1.1 script.
 
 local Ocean = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
